@@ -3,5 +3,5 @@ headless = true
 port = 10000
 
 [browser]
-serverAddress = https://sdt-project-4cmi.onrender.com
+serverAddress = 123.532.235.634
 serverPort = 10000
